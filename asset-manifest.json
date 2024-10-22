@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gym.github.io/static/css/main.57bb4c1c.css",
+    "main.js": "/gym.github.io/static/js/main.4e33e93a.js",
+    "static/js/453.c3c1ea4e.chunk.js": "/gym.github.io/static/js/453.c3c1ea4e.chunk.js",
+    "index.html": "/gym.github.io/index.html",
+    "main.57bb4c1c.css.map": "/gym.github.io/static/css/main.57bb4c1c.css.map",
+    "main.4e33e93a.js.map": "/gym.github.io/static/js/main.4e33e93a.js.map",
+    "453.c3c1ea4e.chunk.js.map": "/gym.github.io/static/js/453.c3c1ea4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57bb4c1c.css",
+    "static/js/main.4e33e93a.js"
+  ]
+}
